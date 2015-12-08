@@ -1,6 +1,10 @@
 # Hotter
 Utilities for Unity
 
+## How to Use
+* Hotter.dll: Add to Assets/Plugins
+* Example.cs: Add to your Scene & run
+
 ### Debug
 Custom Debug that overrides UnityEngine.Debug.
 
